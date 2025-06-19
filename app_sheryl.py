@@ -274,10 +274,10 @@ def main():
 
             # Penjelasan Hasil
             obesity_explanations = {
-                'Normal_Weight': 'Berat badan Anda dalam kisaran normal. Pertahankan pola hidup sehat!',
+               'Normal_Weight': 'Berat badan Anda dalam kisaran normal. Pertahankan pola hidup sehat!',
                 'Overweight_Level_I': 'Anda berada pada tingkat kelebihan berat badan I. Pertimbangkan diet seimbang dan olahraga.',
                 'Obesity_Type_I': 'Anda berada pada tingkat obesitas tipe I. Konsultasikan dengan dokter untuk rencana penurunan berat badan.',
-                'Underweight': 'Berat badan Anda berada di bawah normal. Pertimbangkan konsultasi dengan ahli gizi untuk meningkatkan asupan nutrisi.',
+                'Insufficient_Weight': 'Berat badan Anda berada di bawah normal. Pertimbangkan konsultasi dengan ahli gizi untuk meningkatkan asupan nutrisi.',
                 'Overweight_Level_II': 'Anda berada pada tingkat kelebihan berat badan II. Dianjurkan untuk segera mengubah pola makan dan meningkatkan aktivitas fisik.',
                 'Obesity_Type_II': 'Anda berada pada tingkat obesitas tipe II. Segera konsultasikan dengan dokter untuk penanganan medis yang tepat.',
                 'Obesity_Type_III': 'Anda berada pada tingkat obesitas tipe III (morbida). Perhatian medis mendesak diperlukan untuk menangani kondisi ini.'
